@@ -1,0 +1,6 @@
+.env
+*.env
+
+# Search FAISS
+__pycache__/
+venv/
