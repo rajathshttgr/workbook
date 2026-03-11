@@ -1,0 +1,3 @@
+- pip
+- uv
+- conda
