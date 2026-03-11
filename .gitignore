@@ -1,6 +1,10 @@
+# misc
+TODO
+
+# env
 .env
 *.env
 
-# Search FAISS
+# search FAISS
 __pycache__/
 venv/
