@@ -8,3 +8,7 @@ TODO
 # search FAISS
 __pycache__/
 venv/
+b
+
+# nlohamnn_json
+build/
